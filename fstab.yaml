@@ -1,2 +1,3 @@
-mountpoins:
-  :/ https://drive.google.com/drive/folders/1F0_r8qVlanTqDUgKq5odRTRzM6bXHZ_G?usp=drive_link
+mountpoints:
+  /:
+    url: https://drive.google.com/drive/folders/1F0_r8qVlanTqDUgKq5odRTRzM6bXHZ_G
